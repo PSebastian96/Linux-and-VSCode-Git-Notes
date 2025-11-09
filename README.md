@@ -39,23 +39,3 @@ Curated shortcuts for coding productivity.
 | Shift + Ctrl + Left/Right Arrows | Select full words and lines |
 | Alt + Numbers | Navigate Between Open Files |
 | Alt + Arrows | Move Code Line |
-
-# Linux:
-
-### Chromium:
-
-| Shortcut             | Action                      |
-| -------------------- | --------------------------- |
-| `Ctrl + T`           | Open new tab                |
-| `Ctrl + W`           | Close tab                   |
-| `Ctrl + Shift + T`   | Reopen last closed tab      |
-| `Ctrl + Tab`         | Switch to next tab          |
-| `Ctrl + Shift + Tab` | Switch to previous tab      |
-| `Ctrl + L`           | Focus address bar           |
-| `Ctrl + R`           | Refresh page                |
-| `Ctrl + Shift + R`   | Hard refresh (ignore cache) |
-
-### Linux:
-
-- CTRL + ALT + T ==> Open Terminal
-- ALT + Tab ==> Switch between open applications
