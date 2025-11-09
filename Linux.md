@@ -1,3 +1,8 @@
+# Linux Commands and Terminal Shortcut
+
+### Terminal:
+- CTRL + ALT + T ==> Open Terminal
+- ALT + Tab ==> Switch between open applications
 
 ### 1. File and Folder Management
 | Command                     | Description                                       |
