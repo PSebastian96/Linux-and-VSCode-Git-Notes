@@ -1,10 +1,20 @@
 # Linux Commands and Terminal Shortcut
 
-### Terminal:
-- CTRL + ALT + T ==> Open Terminal
-- ALT + Tab ==> Switch between open applications
+### 1. Terminal:
+| Shortcut           | Action                                    |
+| ------------------ | ----------------------------------------- |
+| `Ctrl + Shift + T` | Open new terminal tab                     |
+| `Ctrl + Shift + N` | Open new terminal window                  |
+| `Ctrl + Shift + C` | Copy selected text                        |
+| `Ctrl + Shift + V` | Paste text                                |
+| `Ctrl + L`         | Clear terminal                            |
+| `Ctrl + C`         | Stop running command                      |
+| `Ctrl + Z`         | Suspend running command                   |
+| `Ctrl + D`         | Exit terminal / logout                    |
+| `Ctrl + R`         | Search command history (reverse-i-search) |
+| `ALT + Tab`        | Switch between open applications          |
 
-### 1. File and Folder Management
+### 2. File and Folder Management
 | Command                     | Description                                       |
 | --------------------------- | ------------------------------------------------- |
 | `ls`                        | List files in the current directory               |
@@ -28,7 +38,7 @@
 | `tail -f <filename>`        | Follow file output in real time                   |
 
 
-### 2. System Information
+### 3. System Information
 | Command    | Description                                                              |
 | ---------- | ------------------------------------------------------------------------ |
 | `uname -a` | Show kernel version and system info                                      |
@@ -43,7 +53,7 @@
 | `id`       | Show user ID and groups                                                  |
 
 
-### 3. System Updates and Package Management (Debian/Raspberry Pi OS)
+### 4. System Updates and Package Management (Debian/Raspberry Pi OS)
 | Command                      | Description                              |
 | ---------------------------- | ---------------------------------------- |
 | `sudo apt update`            | Refresh package lists from repositories  |
@@ -57,7 +67,7 @@
 | `sudo shutdown -h +5`        | Shutdown in 5 minutes                    |
 
 
-### 4. SHA Key Verification
+### 5. SHA Key Verification
 | Command                             | Description                    |
 | ----------------------------------- | ------------------------------ | 
 | `sha256sum <filename>`              | Compute SHA-256 hash of a file |                                          
@@ -67,7 +77,7 @@
 `echo "<expected_hash>  <filename>" | sha256sum -c - ` ==>  Verify file against a known SHA-256 hash
 
 
-### 5. Chromium:
+### 6. Chromium:
 
 | Shortcut             | Action                      |
 | -------------------- | --------------------------- |
