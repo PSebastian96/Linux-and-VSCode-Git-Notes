@@ -2,8 +2,8 @@
 
 ## Table Of Content
 
-- [VSCode Shortcuts](#VSCode Shortcuts)
-- [Linux Notes](Linux Commands and Terminal Shortcut)
+- [VSCode Shortcuts](#VSCode-Shortcuts)
+- [Linux Notes](#Linux-Commands-and-Terminal-Shortcut)
 
 ## VSCode Shortcuts:
 
