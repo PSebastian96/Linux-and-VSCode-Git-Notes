@@ -1,1 +1,1 @@
-# Personal Notes on Linux, Git, Docker, VScode.
+# Personal Notes on Linux, Git, Docker, VSCode.
